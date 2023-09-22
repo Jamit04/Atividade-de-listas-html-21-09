@@ -1,0 +1,19 @@
+
+body { background-image: linear-gradient( to left, blue 30%, darkblue 50%, darkcyan); 
+
+}
+
+h1 { font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: snow;
+    
+}
+
+h2 { font-family: Georgia, 'Times New Roman', Times, serif;
+   color: azure;
+}
+
+ul { color: azure ;}
+
+ol { color: blanchedalmond ;}
+
+p { color: antiquewhite ;}
